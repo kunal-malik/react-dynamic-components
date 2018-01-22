@@ -1,0 +1,11 @@
+{
+    "name": "Branch 1",
+    "description": "Awesome Branch",
+    "employees": [
+        {
+            "name": "employee1",
+            "gender": "male",
+            "designation": "manager"
+        }
+    ]
+}

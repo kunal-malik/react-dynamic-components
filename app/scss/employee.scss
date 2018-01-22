@@ -1,0 +1,12 @@
+.employee-container{
+    margin-top: $ten;
+
+    .employee-name-label{
+        @include label(lighter);
+        margin-left: -12px;
+    }
+
+    .employee-label {
+        @include label(lighter);
+    }
+}

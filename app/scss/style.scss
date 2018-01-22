@@ -1,0 +1,23 @@
+$white-color: #fff;
+$ten: 10px;
+$twenty: 20px;
+$thirty: 30px;
+
+@mixin label($fontWeight: 700) {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: $fontWeight;
+}
+
+@import "./button";
+@import "./card";
+@import "./business";
+@import "./employee";
+
+.remove-link {
+    margin-top: $twenty;
+}
+
+
+

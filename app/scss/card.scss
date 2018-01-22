@@ -1,0 +1,21 @@
+.card-container {
+.card-top-bar {
+    background-color: #608C53;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 7px;
+}
+
+.card-body {
+    padding: $twenty;
+}
+
+h6.card-title {
+    font-size: 32px;
+    line-height: normal;
+    margin-bottom: $twenty;
+    color: #444;
+    overflow: hidden;
+}
+
+}
